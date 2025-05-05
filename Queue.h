@@ -1,6 +1,5 @@
 //##################################################
 // File: Queue.h
-// Author: Anthony Williams
 // Description: A Queue class implemented using a doubly linked list.
 // Date: Nov,10 2024
 //##################################################

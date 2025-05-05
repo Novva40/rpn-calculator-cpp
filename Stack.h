@@ -1,6 +1,5 @@
 //##################################################
 // File: Stack.h
-// Author: Anthony Williams
 // Description: A Stack class implemented using a doubly linked list.
 // Date: Nov,10 2024
 //##################################################

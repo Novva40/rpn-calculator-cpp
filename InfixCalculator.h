@@ -1,6 +1,5 @@
 //##################################################
 // File: InfixCalculator.h
-// Author: Anthony Williams
 // Description:An infix notation calculator class that converts infix expressions to postfix and then evaluates them using the RPNCalculator.
 // Date: Nov,10 2024
 //##################################################

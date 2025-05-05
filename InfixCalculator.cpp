@@ -1,6 +1,5 @@
 //##################################################
 // File: InfixCalculator.cpp
-// Author: Anthony Williams
 // Description: Constructor for InfixCalculator.
 // Date: Nov,10 2024
 //##################################################

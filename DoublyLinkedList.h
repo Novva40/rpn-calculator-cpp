@@ -1,6 +1,5 @@
 //##################################################
 // File: DoublyLinkedList.h
-// Author: Anthony Williams
 // Description: Implements a generic doubly linked list with basic functionalities: adding to front, adding to end, inserting after a node, deleting a node,and traversing forwards and backwards.
 // Date: Nov,10 2024
 //##################################################

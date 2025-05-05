@@ -1,6 +1,5 @@
 //##################################################
 // File: RPNCalculator.cpp
-// Author: Anthony Williams
 // Description: Initializes an empty RPN calculator.
 // Date: Nov,10 2024
 //##################################################

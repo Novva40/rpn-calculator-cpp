@@ -1,6 +1,5 @@
 //##################################################
 // File: RPNCalculator.h
-// Author: Anthony Williams
 // Description: An RPN calculator class implemented using a stack.
 // Date: Nov,10 2024
 //##################################################
